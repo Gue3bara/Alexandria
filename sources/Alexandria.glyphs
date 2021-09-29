@@ -1,5 +1,5 @@
 {
-.appVersion = "1346";
+.appVersion = "1357";
 DisplayStrings = (
 "/yeh-ar/tcheh-ar.fina",
 "/hehgoal-ar.fina",
@@ -50,7 +50,7 @@ code = "";
 name = DevaHalfforms;
 }
 );
-copyright = "Copyright 2011-2020 The Montserrat-Arabic Project Authors (gaber@kieftype.com)";
+copyright = "Copyright 2011-2020 The Alexandria Project Authors (gaber@kieftype.com)";
 customParameters = (
 {
 name = fsType;
@@ -90,7 +90,7 @@ Tag = wght;
 date = "2020-07-14 11:05:16 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://gaber.design/";
-familyName = "Montserrat-Arabic";
+familyName = Alexandria;
 featurePrefixes = (
 {
 automatic = 1;
