@@ -1,7 +1,7 @@
 {
 .appVersion = "1361";
 DisplayStrings = (
-"/alefMaksura-ar/alefMaksura-ar.fina"
+"/hamzaaboveDamma-ar"
 );
 classes = (
 {
@@ -193103,6 +193103,16 @@ rightMetricsKey = "=0";
 glyphname = "hamzaaboveDamma-ar";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{110, 472}";
+},
+{
+name = top;
+position = "{110, 881}";
+}
+);
 components = (
 {
 name = "hamzaabove-ar";
@@ -193118,6 +193128,16 @@ layerId = UUID0;
 width = 219;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{143, 455}";
+},
+{
+name = top;
+position = "{143, 1064}";
+}
+);
 components = (
 {
 name = "hamzaabove-ar";
@@ -193133,6 +193153,16 @@ layerId = "1C84A7F3-C40A-4DC1-B8B4-102D183C348F";
 width = 286;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{189, 416}";
+},
+{
+name = top;
+position = "{189, 1307}";
+}
+);
 components = (
 {
 name = "hamzaabove-ar";
@@ -193150,6 +193180,7 @@ width = 378;
 );
 leftMetricsKey = "=0";
 rightMetricsKey = "=0";
+changeCount = 26;
 },
 {
 glyphname = "hamzaaboveDammatan-ar";
