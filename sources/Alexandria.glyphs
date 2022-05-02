@@ -43,7 +43,7 @@ code = "";
 name = DevaHalfforms;
 }
 );
-copyright = "Copyright 2011-2020 The Alexandria Project Authors (gaber@kieftype.com)";
+copyright = "Copyright 2011-2022 The Alexandria Project Authors (gaber@kieftype.com)";
 customParameters = (
 {
 name = fsType;
@@ -80,7 +80,7 @@ Tag = wght;
 );
 }
 );
-date = "2022-05-01 19:44:12 +0000";
+date = "2022-05-02 06:14:25 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://gaber.design/";
 familyName = Alexandria;
@@ -122198,6 +122198,52 @@ unicode = FC67;
 glyphname = "allah-ar";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{1156, 0}";
+},
+{
+name = bottom_2;
+position = "{986, 0}";
+},
+{
+name = bottom_3;
+position = "{735, 0}";
+},
+{
+name = bottom_4;
+position = "{278, 0}";
+},
+{
+name = caret_1;
+position = "{537, 0}";
+},
+{
+name = caret_2;
+position = "{641, 0}";
+},
+{
+name = caret_3;
+position = "{883, 0}";
+},
+{
+name = top_1;
+position = "{1156, 799}";
+},
+{
+name = top_2;
+position = "{986, 657}";
+},
+{
+name = top_3;
+position = "{735, 987}";
+},
+{
+name = top_4;
+position = "{278, 527}";
+}
+);
 components = (
 {
 name = "alef-ar";
@@ -122261,6 +122307,52 @@ nodes = (
 width = 1256;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{1359, 0}";
+},
+{
+name = bottom_2;
+position = "{1118, 0}";
+},
+{
+name = bottom_3;
+position = "{798, 0}";
+},
+{
+name = bottom_4;
+position = "{287, 0}";
+},
+{
+name = caret_1;
+position = "{527, 0}";
+},
+{
+name = caret_2;
+position = "{744.5, 0}";
+},
+{
+name = caret_3;
+position = "{987, 0}";
+},
+{
+name = top_1;
+position = "{1359, 820}";
+},
+{
+name = top_2;
+position = "{1118, 686}";
+},
+{
+name = top_3;
+position = "{798, 1146}";
+},
+{
+name = top_4;
+position = "{287, 544}";
+}
+);
 components = (
 {
 name = "alef-ar";
@@ -122324,6 +122416,52 @@ nodes = (
 width = 1489;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{1728, 0}";
+},
+{
+name = bottom_2;
+position = "{1423, 0}";
+},
+{
+name = bottom_3;
+position = "{985, 0}";
+},
+{
+name = bottom_4;
+position = "{343, 0}";
+},
+{
+name = caret_1;
+position = "{527, 0}";
+},
+{
+name = caret_2;
+position = "{745, 0}";
+},
+{
+name = caret_3;
+position = "{1113, 0}";
+},
+{
+name = top_1;
+position = "{1728, 901}";
+},
+{
+name = top_2;
+position = "{1423, 743}";
+},
+{
+name = top_3;
+position = "{985, 1338}";
+},
+{
+name = top_4;
+position = "{343, 626}";
+}
+);
 components = (
 {
 name = "alef-ar";
@@ -122335,7 +122473,7 @@ name = "heh-ar.fina";
 {
 alignment = -1;
 name = "shaddaAlefabove-ar";
-transform = "{1, 0, 0, 1, 758, 378}";
+transform = "{1, 0, 0, 1, 800, 378}";
 }
 );
 layerId = "5DA6E103-6A94-47F2-987D-4952DB8EA68E";
