@@ -1,0 +1,296 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/AdobeFnt23.lst
+FileLength:7068
+FileModTime:689175692
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-Black
+FamilyName:Alexandria
+StyleName:Black
+MenuName:Alexandria Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Alexandria Black
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Alexandria-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:243308
+FileModTime:689175409
+NameArray:0,Mac,4,Alexandria Black
+NameArray:0,Win,1,Alexandria Black
+NameArray:0,Win,16,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-Bold
+FamilyName:Alexandria
+StyleName:Bold
+MenuName:Alexandria
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Alexandria Bold
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Alexandria-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:242572
+FileModTime:689175408
+NameArray:0,Mac,4,Alexandria Bold
+NameArray:0,Win,1,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-ExtraBold
+FamilyName:Alexandria
+StyleName:ExtraBold
+MenuName:Alexandria ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Alexandria ExtraBold
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Alexandria-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:242540
+FileModTime:689175407
+NameArray:0,Mac,4,Alexandria ExtraBold
+NameArray:0,Win,1,Alexandria ExtraBold
+NameArray:0,Win,16,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-ExtraLight
+FamilyName:Alexandria
+StyleName:ExtraLight
+MenuName:Alexandria ExtraLight
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:0
+FullName:Alexandria ExtraLight
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Alexandria-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:239780
+FileModTime:689175403
+NameArray:0,Mac,4,Alexandria ExtraLight
+NameArray:0,Win,1,Alexandria ExtraLight
+NameArray:0,Win,16,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-Light
+FamilyName:Alexandria
+StyleName:Light
+MenuName:Alexandria Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Alexandria Light
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Alexandria-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:237912
+FileModTime:689175405
+NameArray:0,Mac,4,Alexandria Light
+NameArray:0,Win,1,Alexandria Light
+NameArray:0,Win,16,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-Medium
+FamilyName:Alexandria
+StyleName:Medium
+MenuName:Alexandria Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Alexandria Medium
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Alexandria-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:240716
+FileModTime:689175412
+NameArray:0,Mac,4,Alexandria Medium
+NameArray:0,Win,1,Alexandria Medium
+NameArray:0,Win,16,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-Regular
+FamilyName:Alexandria
+StyleName:Regular
+MenuName:Alexandria
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Alexandria Regular
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Alexandria-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:237200
+FileModTime:689175404
+NameArray:0,Mac,4,Alexandria Regular
+NameArray:0,Win,1,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-SemiBold
+FamilyName:Alexandria
+StyleName:SemiBold
+MenuName:Alexandria SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Alexandria SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Alexandria-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:241644
+FileModTime:689175411
+NameArray:0,Mac,4,Alexandria SemiBold
+NameArray:0,Win,1,Alexandria SemiBold
+NameArray:0,Win,16,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-Thin
+FamilyName:Alexandria
+StyleName:Thin
+MenuName:Alexandria Thin
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Alexandria Thin
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Alexandria-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:235020
+FileModTime:689175402
+NameArray:0,Mac,4,Alexandria Thin
+NameArray:0,Win,1,Alexandria Thin
+NameArray:0,Win,16,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Arabic-Black
+FamilyName:Montserrat-Arabic
+StyleName:Black
+MenuName:Montserrat-Arabic Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Montserrat-Arabic Black
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Montserrat-Arabic-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:255076
+FileModTime:542763359
+NameArray:0,Mac,4,Montserrat-Arabic Black
+NameArray:0,Win,1,Montserrat-Arabic Black
+NameArray:0,Win,16,Montserrat-Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Arabic-Bold
+FamilyName:Montserrat-Arabic
+StyleName:Bold
+MenuName:Montserrat-Arabic
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Montserrat-Arabic Bold
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Montserrat-Arabic-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:256452
+FileModTime:542763357
+NameArray:0,Mac,4,Montserrat-Arabic Bold
+NameArray:0,Win,1,Montserrat-Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Arabic-Light
+FamilyName:Montserrat-Arabic
+StyleName:Light
+MenuName:Montserrat-Arabic Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Montserrat-Arabic Light
+WritingScript:Roman
+OutlineFileName:/Users/mohamedgaber/WIP/Alexandria/documentation/Alexandria Folder/Document fonts/Montserrat-Arabic-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:247912
+FileModTime:542763355
+NameArray:0,Mac,4,Montserrat-Arabic Light
+NameArray:0,Win,1,Montserrat-Arabic Light
+NameArray:0,Win,16,Montserrat-Arabic
+%EndFont
+
