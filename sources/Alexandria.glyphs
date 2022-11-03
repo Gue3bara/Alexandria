@@ -46,7 +46,7 @@ code = "";
 name = DevaHalfforms;
 }
 );
-copyright = "Copyright 2011-2022 The Alexandria Project Authors (gaber@kieftype.com)";
+copyright = "Copyright 2022 The Alexandria Project Authors (https://github.com/Gue3bara/Alexandria)";
 customParameters = (
 {
 name = fsType;
