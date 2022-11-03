@@ -204739,10 +204739,6 @@ name = InterpolationWeightY;
 value = 44;
 },
 {
-name = weightClass;
-value = 275;
-},
-{
 name = "Update Features";
 value = 1;
 }
