@@ -1,8 +1,5 @@
 {
 .appVersion = "1352";
-DisplayStrings = (
-"/peso"
-);
 classes = (
 {
 automatic = 1;
@@ -161648,18 +161645,19 @@ glyphname = nbspace;
 layers = (
 {
 layerId = UUID0;
-width = 300;
+width = 200;
 },
 {
 layerId = "5DA6E103-6A94-47F2-987D-4952DB8EA68E";
-width = 300;
+width = 270;
 },
 {
 layerId = "1C84A7F3-C40A-4DC1-B8B4-102D183C348F";
-width = 300;
+width = 270;
 }
 );
 leftKerningGroup = nbspace;
+widthMetricsKey = "=space";
 rightKerningGroup = nbspace;
 unicode = 00A0;
 },
