@@ -1,5 +1,5 @@
 # Alexandria font-family - خط الإسكندرية
-![Sample](documentation/sample.svg)
+![Sample](documentation/type-specimen-01.png)
 Alexandria is a 9 weights font family made in matching to the latin type Montserrat by [Julieta Ulanovsky](https://fonts.google.com/specimen/Montserrat) which was inspired by the old posters and signs in the traditional Montserrat neighborhood of Buenos Aires.
 
 Having the fontfamily of nine weights increases the ability to use the font in various applications, from long text using the light weights to short headlines using the heavy thick weights. 
