@@ -1,5 +1,5 @@
 {
-.appVersion = "1361";
+.appVersion = "1363";
 classes = (
 {
 automatic = 1;
@@ -80,7 +80,7 @@ Tag = wght;
 );
 }
 );
-date = "2022-11-03 06:39:02 +0000";
+date = "2022-12-05 08:05:10 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://gaber.design/";
 familyName = Alexandria;
@@ -82988,7 +82988,7 @@ name = "alef-ar";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 29, -22}";
+transform = "{1, 0, 0, 1, 29, -52}";
 }
 );
 layerId = UUID0;
@@ -83033,7 +83033,7 @@ name = "alef-ar.fina";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 29, -22}";
+transform = "{1, 0, 0, 1, 29, -52}";
 }
 );
 layerId = UUID0;
@@ -119956,7 +119956,7 @@ name = "lam_alef-ar";
 {
 anchor = bottom_2;
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 176, -22}";
+transform = "{1, 0, 0, 1, 176, -52}";
 }
 );
 layerId = UUID0;
@@ -120006,7 +120006,7 @@ name = "lam_alef-ar.fina";
 {
 anchor = bottom_2;
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 177, -22}";
+transform = "{1, 0, 0, 1, 177, -52}";
 }
 );
 layerId = UUID0;
@@ -130606,7 +130606,7 @@ name = "kaf_alef-ar";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 29, -22}";
+transform = "{1, 0, 0, 1, 29, -52}";
 }
 );
 layerId = UUID0;
@@ -130653,7 +130653,7 @@ name = "kaf_alef-ar.fina";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 29, -22}";
+transform = "{1, 0, 0, 1, 29, -52}";
 }
 );
 layerId = UUID0;
@@ -197901,7 +197901,7 @@ layers = (
 anchors = (
 {
 name = _bottom;
-position = "{71, 22}";
+position = "{71, 52}";
 },
 {
 name = bottom;
